@@ -44,7 +44,7 @@ RegisterNumber:  212222110021
 ```
 
 ## Sourcecode.java:
-```
+```java
 import java.util.*;
 class prog{
     public static void main(String[] args){
@@ -73,4 +73,5 @@ class prog{
 
 ## RESULT:
 Thus, the program executed successfully and displayed the correct output based on the given input and conditions.
+
 
