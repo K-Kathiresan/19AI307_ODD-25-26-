@@ -30,7 +30,7 @@ RegisterNumber: 212223110021
 ```
 
 ## SOURCE CODE:
-```py
+```java
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
